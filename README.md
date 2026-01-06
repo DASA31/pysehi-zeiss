@@ -1,3 +1,8 @@
+# THIS IS A FORK OF pysehi for use with ZEISS INSTRUMENTS
+See main branch here: https://github.com/operandos/pysehi
+
+**Below is the original description**
+
 # pysehi
  Data processing and analysis tools for Secondary Electron Hyperspectral Imaging (SEHI) and Scanning Electron Microscope (SEM) derived Secondary Electron (SE) spectroscopy.
  
